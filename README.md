@@ -10,12 +10,16 @@
 [![Premiere](https://cdn-icons-png.flaticon.com/128/5968/5968525.png)]()
 [![After](https://cdn-icons-png.flaticon.com/128/5968/5968428.png)]()
 [![Indesign](https://cdn-icons-png.flaticon.com/128/5968/5968482.png)]()
----
+___
 [![HTML5](https://cdn-icons-png.flaticon.com/128/226/226269.png)]()
 [![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)]()
 [![PHP](https://cdn-icons-png.flaticon.com/128/919/919830.png)]()
 [![JavaScript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)]()
 [![Wordpress](https://cdn-icons-png.flaticon.com/128/174/174881.png)]()
+
+## Idiomas:
+[![Espanol](https://cdn-icons-png.flaticon.com/64/330/330554.png)]() Español Nativo
+[![Ingles](https://cdn-icons-png.flaticon.com/64/3013/3013911.png)]()  Inglés oral y escrito
 
 #### Encuentra mis trabajos en mi sitio web: [fernandoreyes.cl](https://fernandoreyes.cl)
 
