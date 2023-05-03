@@ -18,8 +18,8 @@ ___
 [![Wordpress](https://cdn-icons-png.flaticon.com/128/174/174881.png)]()
 
 ## Idiomas:
-[![Espanol](https://cdn-icons-png.flaticon.com/64/330/330554.png)]() Español Nativo
-[![Ingles](https://cdn-icons-png.flaticon.com/64/3013/3013911.png)]()  Inglés oral y escrito
+[![Espanol](https://cdn-icons-png.flaticon.com/64/330/330554.png)]()
+[![Ingles](https://cdn-icons-png.flaticon.com/64/3013/3013911.png)]()
 
 #### Encuentra mis trabajos en mi sitio web: [fernandoreyes.cl](https://fernandoreyes.cl)
 
