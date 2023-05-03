@@ -14,7 +14,7 @@
 
 #### Aquí también pueden encontrar algunos trabajos realizados para redes sociales: [Redes Sociales](http://www.fernandoreyes.cl/rrss)
 
-#### Descarga mi [CV](hhttps://fernandoreyes.cl/wp-content/uploads/2023/02/CV-Fernando-Reyes-2023-ES.pdf)
+#### Descarga mi [CV](https://fernandoreyes.cl/wp-content/uploads/2023/02/CV-Fernando-Reyes-2023-ES.pdf)
 
 #### Puedes visitar mi Linkedin: [LinkedIn](https://www.linkedin.com/in/fedoreyes/)
  
