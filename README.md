@@ -6,7 +6,6 @@
 
 #### Encuentra mis trabajos en mi sitio web: [fernandoreyes.cl](https://fernandoreyes.cl)
 
-
 #### Dentro de mis habilidades se destacan:
 * **Edición de Video.**
 * **Postproducción Audiovisual.**
@@ -14,6 +13,8 @@
 * **Diseño Web.**
 
 #### Aquí también pueden encontrar algunos trabajos realizados para redes sociales: [Redes Sociales](http://www.fernandoreyes.cl/rrss)
+
+#### Descarga mi [CV](hhttps://fernandoreyes.cl/wp-content/uploads/2023/02/CV-Fernando-Reyes-2023-ES.pdf)
 
 #### Puedes visitar mi Linkedin: [LinkedIn](https://www.linkedin.com/in/fedoreyes/)
  
