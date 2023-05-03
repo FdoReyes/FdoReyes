@@ -5,7 +5,10 @@
 #### Mi especialidad es la creación y apoyo para lo que necesites para tu marca. Estoy dispuesto a utilizar todo mi conocimiento para ayudarte en la creación de algo único para ti o tu negocio.
 
 ## Habilidades Técnicas:
-[![Photohop](https://cdn-icons-png.flaticon.com/128/5968/5968520.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="photoshop " title="photoshop " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968520.png 4x")]()
+[![Photohop](https://cdn-icons-png.flaticon.com/128/5968/5968520.png)]()
+[![Illustrator](https://cdn-icons-png.flaticon.com/128/5611/5611037.png)]()
+[![Premiere](https://cdn-icons-png.flaticon.com/128/5968/5968525.png)]()
+[![After](https://cdn-icons-png.flaticon.com/128/5968/5968428.png)]()
 
 #### Encuentra mis trabajos en mi sitio web: [fernandoreyes.cl](https://fernandoreyes.cl)
 
