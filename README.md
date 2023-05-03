@@ -4,6 +4,9 @@
 
 #### Mi especialidad es la creación y apoyo para lo que necesites para tu marca. Estoy dispuesto a utilizar todo mi conocimiento para ayudarte en la creación de algo único para ti o tu negocio.
 
+## Habilidades Técnicas:
+[![Photohop](https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg)]()
+
 #### Encuentra mis trabajos en mi sitio web: [fernandoreyes.cl](https://fernandoreyes.cl)
 
 #### Dentro de mis habilidades se destacan:
