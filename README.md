@@ -1,8 +1,7 @@
-# Bienvenido a mi Repositorio 😎
-### **Mi nombre es Fernando Reyes**
+# Hola, mi nombre es Fernando Reyes 😎
 ### **Comunicador Digital y Multimedia**
 
-#### Mi especialidad es la creación y apoyo para lo que necesites para tu marca. Estoy dispuesto a utilizar todo mi conocimiento para ayudarte en la creación de algo único para ti o tu negocio.
+Soy Comunicador Digital y Multimedia hace seis años, mi especialidad es la creación y apoyo para lo que necesites para tu marca. Estoy dispuesto a utilizar todo mi conocimiento para ayudarte en la creación de algo único para ti o tu negocio.
 
 ## Habilidades Técnicas:
 [![Photohop](https://cdn-icons-png.flaticon.com/128/5968/5968520.png)]()
