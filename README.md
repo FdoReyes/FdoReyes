@@ -9,9 +9,13 @@
 [![Illustrator](https://cdn-icons-png.flaticon.com/128/5611/5611037.png)]()
 [![Premiere](https://cdn-icons-png.flaticon.com/128/5968/5968525.png)]()
 [![After](https://cdn-icons-png.flaticon.com/128/5968/5968428.png)]()
-[![FinalCut](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/08/14/ed0814e7-1a39-73eb-9a15-66b62a1d7eeb/AppIcon-85-220-0-4-2x.png/246x0w.webp)]()
-
-
+[![Indesign](https://cdn-icons-png.flaticon.com/128/5968/5968482.png)]()
+</br>
+[![HTML5](https://cdn-icons-png.flaticon.com/128/226/226269.png)]()
+[![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)]()
+[![PHP](https://cdn-icons-png.flaticon.com/128/919/919830.png)]()
+[![JavaScript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)]()
+[![Wordpress](https://cdn-icons-png.flaticon.com/128/174/174881.png)]()
 
 #### Encuentra mis trabajos en mi sitio web: [fernandoreyes.cl](https://fernandoreyes.cl)
 
