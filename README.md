@@ -10,7 +10,7 @@
 [![Premiere](https://cdn-icons-png.flaticon.com/128/5968/5968525.png)]()
 [![After](https://cdn-icons-png.flaticon.com/128/5968/5968428.png)]()
 [![Indesign](https://cdn-icons-png.flaticon.com/128/5968/5968482.png)]()
-___
+<br></br>
 [![HTML5](https://cdn-icons-png.flaticon.com/128/226/226269.png)]()
 [![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)]()
 [![PHP](https://cdn-icons-png.flaticon.com/128/919/919830.png)]()
