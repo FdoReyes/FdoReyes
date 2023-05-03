@@ -1,6 +1,8 @@
 # Hola, mi nombre es Fernando Reyes 😎
 ### **Comunicador Digital y Multimedia**
 
+[![GitHub Banner](/CabeceraFR_GitHub.png)]()
+
 Soy Comunicador Digital y Multimedia hace seis años, mi especialidad es la creación y apoyo para lo que necesites para tu marca. Estoy dispuesto a utilizar todo mi conocimiento para ayudarte en la creación de algo único para ti o tu negocio.
 
 ## Habilidades Técnicas:
