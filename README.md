@@ -8,10 +8,10 @@
 
 
 #### Dentro de mis habilidades se destacan:
-* Edición de Video.
-* Postproducción Audiovisual.
-* Diseño Gráfico.
-* Diseño Web.
+* **Edición de Video.**
+* **Postproducción Audiovisual.**
+* **Diseño Gráfico.**
+* **Diseño Web.**
 
 #### Aquí también pueden encontrar algunos trabajos realizados para redes sociales: [Redes Sociales](http://www.fernandoreyes.cl/rrss)
 
